@@ -8,4 +8,4 @@ def play_video(video_name):
     except Exception as e:
         print(f"Error: {e}")
 
-play_video('harsh.mp4')
+play_video('name_of_video_file')
